@@ -1,6 +1,6 @@
 # KPL Token Sender
 
-This project is a Node.js script that allows you to send KPL tokens to multiple Solana wallets in one go. It automates the process of transferring tokens, making it easy to distribute KPL tokens to a list of wallet addresses.
+This project is a Node.js script that allows you to send KPL tokens to multiple Koii network wallets in one go. It automates the process of transferring tokens, making it easy to distribute KPL tokens to a list of wallet addresses.
 
 ## Features
 
