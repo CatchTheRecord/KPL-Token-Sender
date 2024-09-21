@@ -72,6 +72,3 @@ Before you begin, ensure you have the following:
 
 - Ensure your wallet has enough KPL and Koii tokens to cover all transfers and fees.
 
-## Example .env File
-
-Your `.env` file should contain you Koii System Key 
