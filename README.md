@@ -13,7 +13,7 @@ This project is a Node.js script that allows you to send KPL tokens to multiple 
 Before you begin, ensure you have the following:
 
 1. **Node.js** and **npm** installed on your machine.
-2. **Solana Wallet** secret key (stored as an environment variable).
+2. **Koii Wallet** secret key (stored as an environment variable).
 3. **KPL Token Mint Address**.
 
 ## Installation
