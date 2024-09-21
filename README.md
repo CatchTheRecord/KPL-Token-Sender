@@ -37,10 +37,10 @@ Before you begin, ensure you have the following:
     touch .env
     ```
 
-    Inside the `.env` file, add your Solana wallet's secret key like this:
+    Inside the `.env` file, add your Koii wallet's secret key like this:
 
     ```
-    SECRET_KEY=[your Solana wallet secret key in JSON format]
+    SECRET_KEY=[your Koii wallet secret key in JSON format]
     ```
 
 ## Usage
